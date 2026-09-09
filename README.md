@@ -11,7 +11,7 @@ This repository documents a quarter-long dive into how AI changes marketing anal
 
 The arc isn't "AI solved everything." It's "AI accelerated analysis, but human judgment stayed in the loop the whole time." You'll see where AI sped things up, where I had to verify or correct it, and where the recommendation required judgment AI can't make.
 
-**The capstone: [Executive Brief](hw5/Denver_Launch_Strategy_Executive_Brief.md)** — A decision brief for Marcus (CEO, decides on instinct) and Jennifer (CFO, asks "how do you know").
+**The capstone: [Denver Launch Strategy Executive Brief](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/KA-FINAL-Denver%20Launch%20Strategy%20-%20Executive%20Brief.pdf)** — A decision brief for Marcus (CEO, decides on instinct) and Jennifer (CFO, asks "how do you know").
 
 ---
 
@@ -22,7 +22,7 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Finding:** The bottleneck wasn't the math—it was that we couldn't ask new questions fast. Once metrics were automated, we could test scenarios 3x faster.
 
-**Artifact:** [Functional Brief](hw1/) showing the workflow gap and the time cost.
+**Artifact:** [Functional Brief](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/GreenThreads_HW1_Functional_Brief%20(1).pdf) showing the workflow gap and the time cost.
 
 ---
 
@@ -31,7 +31,7 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Finding:** Very different. Austin launches in spring (warm weather, volume, price-sensitive). Denver launches in November (cold weather, gift-giving, premium positioning). Same company, completely different customer.
 
-**Artifact:** [Document Analysis](hw2/) comparing the two markets—demographics, seasonality, competitive landscape.
+**Artifact:** [Synthesis Brief](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/GreenThreads_HW2_Synthesis_Brief.pdf) comparing the two markets—demographics, seasonality, competitive landscape.
 
 ---
 
@@ -40,7 +40,7 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Finding:** No. Email and Instagram don't do the same job. Instagram is lead generation ($6.20 ROAS, single purchase). Email is retention ($4.00 ROAS, but $693 lifetime value, 92% repeat rate). They play different positions. In November, retention matters more than leads because we're fighting for premium customers, not volume.
 
-**Artifact:** [Data Analysis](hw3/) with ROAS breakdown, cohort performance, channel comparison.
+**Artifact:** [Denver Proposal Analysis](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/V2%20_GreenThreads_Denver_Proposal_v2_MARKED.pdf) with ROAS breakdown, cohort performance, channel comparison.
 
 ---
 
@@ -49,7 +49,7 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Finding:** It failed. The assistant correctly identified that Austin's ratios don't predict Denver demand. But it also guessed wrong on Vietnam shipping times (predicted 45 days; actual is 60). That failure forced us to verify everything else manually. The limitation became the insight: AI can flag data gaps, but a person has to close them.
 
-**Artifact:** [Testing Log](hw4/) with scenarios tested, failures found, and corrections made.
+**Artifact:** [Custom Assistant Build & Testing](https://github.com/kma-glitch/AI205_Custom_Assistant_Build) with scenarios tested, failures found, and corrections made.
 
 ---
 
@@ -58,9 +58,8 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Recommendation:** Hoodie Hero. Use the Instagram + Email channel insight + the market insight (premium, scarcity) to position Shorts as "Coming Mid-November" and make it work as exclusivity instead of a gap. The $4K creative spend is a gamble only if the Hoodie order happens.
 
-**Artifact:** [Full Brief](hw5/) with cross-function reconciliation, three fallback scenarios, and honest limits.
+**Artifact:** [Full Executive Brief](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/KA-FINAL-Denver%20Launch%20Strategy%20-%20Executive%20Brief.pdf) with cross-function reconciliation, three fallback scenarios, and honest limits.
 
-[View Denver Launch Strategy Brief](https://htmlpreview.github.io/?https://github.com/YOUR-USERNAME/greenthreads-denver-launch/blob/main/hw5/Denver_Launch_Strategy_Executive_Brief.html)
 ---
 
 ## What I Learned About AI in a Real Function
@@ -112,7 +111,7 @@ This portfolio was graded on seven dimensions:
 
 This brief is built on real client findings (R1 and R2 rulings from Sept 3–8, 2026). Dates, numbers, SKUs, and deadlines are accurate. Market insights are tested assumptions. The Hoodie hero recommendation required all four HW assignments to land.
 
-If you want to see the work at any level of detail, start in the `/hw*` folders. Each has its own README.
+If you want to see the work at any level of detail, start with the links above. Each artifact has its own README or documentation.
 
 ---
 
