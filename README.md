@@ -5,11 +5,17 @@
 
 ---
 
+## My Approach to AI-Fluent Analysis
+
+I use AI to handle the hard, repetitive work—metrics automation, data organization, scenario testing—so humans can focus on judgment: strategy, positioning, deciding risk. This portfolio shows that balance: AI accelerates, but judgment stays human.
+
+My goal is analysis that's honest and rigorous enough to actually improve the work, and the conditions around it. That means naming where AI fails, refusing to overclaim, holding contradictions instead of averaging them away. Better analysis serves better decisions, and better decisions serve better outcomes for teams and the people they're trying to help.
+
+---
+
 ## What This Portfolio Shows
 
 This repository documents a quarter-long dive into how AI changes marketing analysis. The work started with a real problem—manual metrics reporting—and ended with a recommendation to launch GreenThreads' Denver store with a winter-focused product strategy.
-
-The arc isn't "AI solved everything." It's "AI accelerated analysis, but human judgment stayed in the loop the whole time." You'll see where AI sped things up, where I had to verify or correct it, and where the recommendation required judgment AI can't make.
 
 **The capstone: [Denver Launch Strategy Executive Brief](https://raw.githubusercontent.com/kma-glitch/AI205_greenthreads_denver_launch/main/KA-FINAL-Denver%20Launch%20Strategy%20-%20Executive%20Brief.pdf)** — A decision brief for Marcus (CEO, decides on instinct) and Jennifer (CFO, asks "how do you know").
 
