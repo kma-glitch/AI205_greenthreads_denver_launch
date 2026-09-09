@@ -60,6 +60,7 @@ The arc isn't "AI solved everything." It's "AI accelerated analysis, but human j
 
 **Artifact:** [Full Brief](hw5/) with cross-function reconciliation, three fallback scenarios, and honest limits.
 
+[View Denver Launch Strategy Brief](https://htmlpreview.github.io/?https://github.com/YOUR-USERNAME/greenthreads-denver-launch/blob/main/hw5/Denver_Launch_Strategy_Executive_Brief.html)
 ---
 
 ## What I Learned About AI in a Real Function
